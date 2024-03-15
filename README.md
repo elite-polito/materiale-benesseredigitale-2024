@@ -13,4 +13,4 @@ Materiale per il corso di _[Benessere Digitale](https://elite.polito.it/teaching
 * Prototipo a bassa fedeltà
 
 ## Esame
-* [Istruzioni e consegna](./slide/esame.pdf)
+* Istruzioni e consegna
