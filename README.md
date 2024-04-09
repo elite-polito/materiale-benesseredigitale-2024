@@ -8,6 +8,7 @@ Materiale per il corso di _[Benessere Digitale](https://elite.polito.it/teaching
 * [Benessere Digitale - Prospettiva Psicologica](./slide/lezioni/02-benessere-digitale-psicologia.pdf)
 * [Stress Digitale](./slide/lezioni/03-stress-digitale.pdf)
 * [Benessere Digitale e Lavoro](./slide/lezioni/04-benessere-digitale-e-lavoro.pdf)
+* [Needfinding](./slide/lezioni/05-needfinding.pdf)
 
 
 ## Esercitazioni
