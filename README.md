@@ -12,7 +12,7 @@ Materiale per il corso di _[Benessere Digitale](https://elite.polito.it/teaching
 
 
 ## Esercitazioni
-* Journey Map
+* [Journey Map](./slide/assignment/A1-journeymap.pdf)
 * Needfinding
 * Prototipo a bassa fedeltà
 
