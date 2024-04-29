@@ -14,7 +14,7 @@ Materiale per il corso di _[Benessere Digitale](https://elite.polito.it/teaching
 
 ## Esercitazioni
 * [Journey Map](./slide/assignment/A1-journeymap.pdf)
-* Needfinding
+* [Needfinding](./slide/assignment/A2-needfinding.pdf)
 * Prototipo a bassa fedeltà
 
 ## Esame
