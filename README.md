@@ -11,6 +11,7 @@ Materiale per il corso di _[Benessere Digitale](https://elite.polito.it/teaching
 * [Needfinding](./slide/lezioni/05-needfinding.pdf)
 * [Needfinding - Analisi](./slide/lezioni/05b-needfinding-analisi.pdf)
 * [Strategie Informatiche](./slide/lezioni/06-strategie-informatiche.pdf)
+* [Differenze Individuali](./slide/lezioni/07-differenze-individuali.pdf)
 
 
 ## Esercitazioni
