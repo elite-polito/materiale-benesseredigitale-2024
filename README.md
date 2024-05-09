@@ -13,6 +13,7 @@ Materiale per il corso di _[Benessere Digitale](https://elite.polito.it/teaching
 * [Strategie Informatiche](./slide/lezioni/06-strategie-informatiche.pdf)
 * [Differenze Individuali](./slide/lezioni/07-differenze-individuali.pdf)
 * [Competenze Digitali](./slide/lezioni/08-competenze-digitali.pdf)
+* [Strategie Psicologiche](./slide/lezioni/09-strategie-psicologiche.pdf)
 
 
 ## Esercitazioni
